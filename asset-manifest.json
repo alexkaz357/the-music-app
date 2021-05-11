@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/the-music-app/static/css/main.18ecac65.chunk.css",
+    "main.js": "/the-music-app/static/js/main.a87aed14.chunk.js",
+    "main.js.map": "/the-music-app/static/js/main.a87aed14.chunk.js.map",
+    "runtime-main.js": "/the-music-app/static/js/runtime-main.049fcf44.js",
+    "runtime-main.js.map": "/the-music-app/static/js/runtime-main.049fcf44.js.map",
+    "static/js/2.2c095212.chunk.js": "/the-music-app/static/js/2.2c095212.chunk.js",
+    "static/js/2.2c095212.chunk.js.map": "/the-music-app/static/js/2.2c095212.chunk.js.map",
+    "static/js/3.1b19cca7.chunk.js": "/the-music-app/static/js/3.1b19cca7.chunk.js",
+    "static/js/3.1b19cca7.chunk.js.map": "/the-music-app/static/js/3.1b19cca7.chunk.js.map",
+    "index.html": "/the-music-app/index.html",
+    "static/css/main.18ecac65.chunk.css.map": "/the-music-app/static/css/main.18ecac65.chunk.css.map",
+    "static/js/2.2c095212.chunk.js.LICENSE.txt": "/the-music-app/static/js/2.2c095212.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/the-music-app/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/default.png": "/the-music-app/static/media/default.ce4db81a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.049fcf44.js",
+    "static/js/2.2c095212.chunk.js",
+    "static/css/main.18ecac65.chunk.css",
+    "static/js/main.a87aed14.chunk.js"
+  ]
+}
