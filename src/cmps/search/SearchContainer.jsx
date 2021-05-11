@@ -23,7 +23,6 @@ export default function SearchContainer({
   };
 
   const getNextTracks = async () => {
-    setSearchResults(null);
     activateLoader();
     const nextTracks = await musicService.getNextTracks(
       searchResults.next_href
@@ -33,6 +32,7 @@ export default function SearchContainer({
   };
 
   const activateLoader = () => {
+    setSearchResults(null);
     setIsLoading(true);
   };
 
